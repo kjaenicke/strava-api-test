@@ -1,0 +1,12 @@
+*.dll
+*.dylib
+*.exe
+*.exe~
+*.so
+
+# Testing
+*.test
+*.tmp
+
+# Environment variables
+.env
